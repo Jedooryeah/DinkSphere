@@ -1,0 +1,7 @@
+/build/
+/dist/
+/.DS_Store
+*.class
+/nbproject/private/
+/payment_proofs/
+**/.DS_Store
